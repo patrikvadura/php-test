@@ -18,4 +18,4 @@
     </head>
 
     <body id="body">
-        <?php compomnent('' ,'header.php'); ?>
+        <?php component('' ,'header.php'); ?>

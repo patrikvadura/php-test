@@ -1,5 +1,5 @@
 <?php
-    function compomnent($folder, $filename) {
+    function component($folder, $filename) {
         $directory = "components/";
 
         if (is_file($filename)) {

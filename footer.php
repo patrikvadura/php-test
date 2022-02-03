@@ -1,3 +1,3 @@
-            <?php compomnent('' ,'footer.php'); ?>
+            <?php component('' ,'footer.php'); ?>
         </body>
     </html>
