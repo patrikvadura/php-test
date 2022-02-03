@@ -1,0 +1,8 @@
+:root {
+    --fontFamily: "Brandon Grotesque", helvetica, sans-serif;
+}
+
+h1 {
+    font-family: var(--fontFamily);
+    color: blue;
+}
